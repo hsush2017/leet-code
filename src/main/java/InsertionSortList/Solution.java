@@ -2,7 +2,7 @@ package InsertionSortList;
 
 public class Solution {
     public ListNode insertionSortList(ListNode head) {
-        if(head == null) {
+        if (head == null) {
             return null;
         }
 
