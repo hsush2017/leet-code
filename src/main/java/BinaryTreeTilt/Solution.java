@@ -1,5 +1,7 @@
 package BinaryTreeTilt;
 
+import common.TreeNode;
+
 public class Solution {
     public int findTilt(TreeNode root) {
         if (root == null) {

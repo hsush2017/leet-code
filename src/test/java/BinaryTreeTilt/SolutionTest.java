@@ -1,5 +1,6 @@
 package BinaryTreeTilt;
 
+import common.TreeNode;
 import org.assertj.core.api.Assertions;
 import org.junit.Before;
 import org.junit.Test;
