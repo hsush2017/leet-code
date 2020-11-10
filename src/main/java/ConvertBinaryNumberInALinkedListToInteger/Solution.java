@@ -1,5 +1,7 @@
 package ConvertBinaryNumberInALinkedListToInteger;
 
+import common.ListNode;
+
 public class Solution {
     public int getDecimalValue(ListNode head) {
         int answer = 0;

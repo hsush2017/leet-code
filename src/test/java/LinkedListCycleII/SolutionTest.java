@@ -1,5 +1,6 @@
 package LinkedListCycleII;
 
+import common.ListNode;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 

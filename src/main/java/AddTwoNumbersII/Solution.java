@@ -1,5 +1,7 @@
 package AddTwoNumbersII;
 
+import common.ListNode;
+
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int l1Len = length(l1);

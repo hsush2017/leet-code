@@ -1,5 +1,7 @@
 package InsertionSortList;
 
+import common.ListNode;
+
 public class Solution {
     public ListNode insertionSortList(ListNode head) {
         if (head == null) {
