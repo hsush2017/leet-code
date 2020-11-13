@@ -20,7 +20,6 @@ public class Solution {
             int depth = getDepth(cnt);
             int levelLastIndex = (int) (Math.pow(2, depth) - 1);
 
-
             node.next = cnt == levelLastIndex ? null : queue.peek();
 
             if (node.left != null) {
