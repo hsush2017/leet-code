@@ -1,4 +1,4 @@
-package medium.validateSquare;
+package medium.ValidateSquare;
 
 import java.util.ArrayList;
 import java.util.List;
