@@ -1,4 +1,4 @@
-package easy;
+package easy.SquaresOfASortedArray;
 
 import org.junit.Before;
 import org.junit.Test;

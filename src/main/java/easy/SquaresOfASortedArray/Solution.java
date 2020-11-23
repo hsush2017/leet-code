@@ -1,4 +1,4 @@
-package easy;
+package easy.SquaresOfASortedArray;
 
 import java.util.Arrays;
 
